@@ -12,5 +12,14 @@
 
 
 
+🔭 I'm highly interested in Full Stack Development
+📫 How to reach me: pushpakale1999@gmail.com
+📱 Linked in profile:https://www.linkedin.com/in/pushpa-kale-694375191
+😄 Pronouns: She/Her
+
+
+
+
+
 
 
