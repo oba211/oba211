@@ -1,4 +1,4 @@
-### Hi there I'm PUSHPA KALE 👋     ![Screenshot (116)](https://user-images.githubusercontent.com/69043926/145659640-1168fb19-b578-4cdd-87d9-a29e36a7e701.png)
+### Hi there I'm PUSHPA KALE 👋     
 
     A passionate computer enthusiast from India
     
@@ -14,4 +14,3 @@
 
 
 
-![Screenshot (115)](https://user-images.githubusercontent.com/69043926/145659690-6355d0ea-2ca3-415c-9a9c-d509e3b593de.png)
