@@ -30,7 +30,6 @@
 
 
 
-https://github.com/oba211/oba211/blob/main/th.svg
 
 
 
