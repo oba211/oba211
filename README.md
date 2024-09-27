@@ -1,7 +1,7 @@
 ### Hi there I'm PUSHPA KALE 👋     
 
 
-    A passionate computer enthusiast from India
+    A passionate NetSuite enthusiast from India
     
     The human brain is a "crazy" place & this are two things that fascinate me most about technology and thinking in unique way.💡
 
@@ -19,9 +19,12 @@
 
 
 
-🔭 I'm highly interested in Full Stack Development
+🔧 Tech Wizardry:
+Mastering SuiteCloud to conjure up powerful customizations.
 
-📫 How to reach me: pushpakale1999@gmail.com
+💡 Creative Problem-Solver: I thrive on the challenge of complex business needs—think of me as the wizard who turns chaos into order! Every project is an opportunity to innovate and push boundaries.
+
+🤝 Let’s Connect: I love collaborating with fellow tech enthusiasts and exchanging ideas. Hit me up at pushpakale1999@gmail.com!
 
 📱 Linked in profile:https://www.linkedin.com/in/pushpa-kale-694375191
 
